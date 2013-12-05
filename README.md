@@ -9,4 +9,4 @@ Interested in Titan?  https://github.com/thinkaurelius/titan
 
 ### Running
 
-mvn clean install exec:java -DmainClass=com.thinkaurelius.titan.shadetest.Main
+mvn clean install exec:java -Dexec.mainClass=com.thinkaurelius.titan.shadetest.Main

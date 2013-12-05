@@ -8,7 +8,7 @@
 
     <!--
       - To run the proof-of-concept main class, invoke mave exec:java like so
-      - mvn clean install exec:java -DmainClass=com.thinkaurelius.titan.shadetest.Main
+      - mvn clean install exec:java -Dexec.mainClass=com.thinkaurelius.titan.shadetest.Main
       -->
 
     <repositories>
